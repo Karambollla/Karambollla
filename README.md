@@ -12,9 +12,8 @@
   
 </p>
 
-## Currently working at
+# Currently working at
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open_to_work-6A1B9A?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to work" />
-  <img src="https://img.shields.io/badge/Ready_for_challenge-FF5722?style=for-the-badge&logo=githubactions&logoColor=white" alt="Ready for challenge" />
 </p>
