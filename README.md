@@ -9,18 +9,13 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <!-- Логотипы университета -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Moscow_institute_of_physics_and_technology_logo-vector.svg" height="40" alt="МФТИ" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/%D0%9B%D0%BE%D0%B3%D0%BE_%D0%9C%D0%A4%D0%A2%D0%98.png/320px-%D0%9B%D0%BE%D0%B3%D0%BE_%D0%9C%D0%A4%D0%A2%D0%98.png" height="40" alt="МФТИ" />
+  
+  <!-- Логотип ФПМИ (SAMCS) -->
+  <!-- Пока официального простого SVG/PNG в открытом доступе мало, но можно использовать такой вариант: -->
+  <img src="https://wiki.mipt.tech/images/0/0f/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A4%D0%9F%D0%9C%D0%98_2019.png" height="40" alt="ФПМИ" />
 </p>
 
 ## Currently studying at MIPT SAMCS
-## 🎓 Образование
-
-<p align="center">
-  <!-- Бейдж МФТИ -->
-  <a href="https://mipt.ru/" target="_blank">
-    <img src="https://img.shields.io/badge/МФТИ-红色?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48Y2lyY2xlIGN4PSIxMDAiIGN5PSIxMDAiIHI9Ijk1IiBmaWxsPSIjZmZmIi8+PHBvbHlsaW5lIHBvaW50cz0iNTAsMTUwIDUwLDUwIDEwMCw1MCAxMDAsMTUwIiBmaWxsPSIjMDA0YzllIi8+PHBvbHlsaW5lIHBvaW50cz0iMTAwLDEwMCAxMDAsNTAgMTUwLDUwIDE1MCwxMDAiIGZpbGw9IiMwMDRjOWUiLz48L3N2Zz4=&logoColor=white" alt="МФТИ" />
-  </a>
-  <!-- Бейдж ФПМИ -->
-  <a href="https://samcs.ru/" target="_blank">
-    <img src="https://img.shields.io/badge/ФПМИ-МФТИ-蓝色?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48cmVjdCB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgZmlsbD0iIzAwNkZCNiIvPjx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBmb250LXNpemU9IjE4MCIgZm9udC1mYW1pbHk9IkFyaWFsIiBmaWxsPSIjZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSI+0YTRgTwvdGV4dD48L3N2Zz4=" alt="ФПМИ" />
-  </a>
-</p>
