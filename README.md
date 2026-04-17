@@ -1,6 +1,6 @@
-### My tech stack:
+# Your Name / Никнейм
 
-***
+### My tech stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -13,10 +13,29 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-***
+### Currently studying at
 
-### Working on:
+<p align="center">
+  <a href="https://mipt.ru">
+    <img src="https://upload.wikimedia.org/wikipedia/ru/2/27/%D0%9B%D0%BE%D0%B3%D0%BE_%D0%9C%D0%A4%D0%A2%D0%98.png" 
+         height="58" 
+         style="border-radius: 14px; margin: 8px;" 
+         alt="МФТИ" />
+  </a>
+  
+  <a href="https://mipt.ru/education/schools/fpmi">
+    <img src="https://wiki.mipt.tech/images/0/0f/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A4%D0%9F%D0%9C%D0%98_2019.png" 
+         height="58" 
+         style="border-radius: 14px; margin: 8px;" 
+         alt="ФПМИ (SAMCS)" />
+  </a>
+</p>
 
-<a href="https://github.com/Karambollla/xkcd-comics-parser"><img src="https://img.shields.io/badge/xkcd_comics_parser-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+### Working on
 
-***
+<p align="center">
+  <a href="https://github.com/Karambollla/xkcd-comics-parser">
+    <img src="https://img.shields.io/badge/xkcd_comics_parser-000000?style=for-the-badge&logo=github&logoColor=white" 
+         alt="xkcd comics parser" />
+  </a>
+</p>
