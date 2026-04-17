@@ -1,4 +1,6 @@
-# My tech stack
+### My tech stack
+
+***
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -12,8 +14,16 @@
   
 </p>
 
-# Currently working at
+***
+
+### Currently working on
+
+***
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open_to_work-6A1B9A?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to work" />
+  <a href="https://github.com/Karambollla/xkcd-comics-parser">
+    <img src="https://img.shields.io/badge/xkcd_comics_parser-000000?style=for-the-badge&logo=github&logoColor=white" alt="xkcd comics parser" />
+  </a>
 </p>
+
+***
