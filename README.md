@@ -37,13 +37,5 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karambollla&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karambollla&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Karambollla&color=0e75b6&style=flat&label=Profile%20views" alt="Profile views" />
 </div>
