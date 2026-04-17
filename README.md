@@ -1,7 +1,5 @@
 ### My tech stack
 
-***
-
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -25,5 +23,3 @@
     <img src="https://img.shields.io/badge/xkcd_comics_parser-000000?style=for-the-badge&logo=github&logoColor=white" alt="xkcd comics parser" />
   </a>
 </p>
-
-***
