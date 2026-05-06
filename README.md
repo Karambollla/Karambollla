@@ -1,4 +1,8 @@
-![gif](test3.gif)
+<p align="center">
+  <img src="test3.gif" width="33%" />
+  <img src="test3.gif" width="33%" />
+  <img src="test3.gif" width="33%" />
+</p>
 
 <div align="center">
 
