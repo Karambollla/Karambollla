@@ -3,7 +3,10 @@
 </p>
 
 <div align="center">
-  <b>Systems & low‑level dev</b>  |  🎓 <i>MIPT, Moscow</i>
+  <p>
+    🧩 <strong>Backend & microservices dev</strong><br>
+    🎓 <strong>MIPT (Moscow)</strong>
+  </p>
 </div>
 
 <div align="center">
