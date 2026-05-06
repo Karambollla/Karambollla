@@ -5,9 +5,6 @@
 </p>
 
 <div align="center">
-
-  <h1>Karambollla</h1>
-
   <p>
     Systems & low-level software developer<br>
     Currently studying at MIPT (Moscow)
@@ -29,18 +26,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
----
-
-### Currently Working On
-
-<p align="center">
-  <a href="https://github.com/Karambollla/xkcd-comics-parser">
-    <img src="https://img.shields.io/badge/xkcd_comics_parser-000000?style=for-the-badge&logo=github&logoColor=white" alt="xkcd comics parser" />
-  </a>
-</p>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Karambollla&color=0e75b6&style=flat&label=Profile%20views" alt="Profile views" />
