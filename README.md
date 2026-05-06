@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="hi-hello.gif" width="33%" />
-  <img src="test3.gif" width="33%" />
-  <img src="test3.gif" width="33%" />
+  <img src="hi-hello.gif"/>
 </p>
 
 <div align="center">
