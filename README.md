@@ -12,15 +12,4 @@
 
 </div>
 
-### Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+[![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&align=center&titleAlign=center&lineCount=3&width=600&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=go%2Cgo%2C00ADD8%3Bcplusplus%2Cc%2B%2B%2C00599C%3Bpython%2Cpython%2C3776AB%3Bdata%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BQzwvdGl0bGU%2BPHBhdGggZD0iTTE2LjU5MjEgOS4xOTYycy0uMzU0LTMuMjk4LTMuNjI3LTMuMzljLTMuMjc0MS0uMDktNC45NTUyIDIuNDc0LTQuOTU1MiA2LjE0IDAgMy42NjUxIDEuODU4IDYuNTk3MiA1LjA0NTEgNi41OTcyIDMuMTg0IDAgMy41MzgxLTMuNjY1IDMuNTM4MS0zLjY2NWw2LjEwNDEuMzY1cy4zNiAzLjMxLTIuMTk2IDUuODM2Yy0yLjU1MiAyLjUyNDEtNS42OTAxIDIuOTM3MS03Ljg3NjIgMi45MjAxLTIuMTktLjAxNy01LjIyNjEuMDM0LTguMTYwMi0yLjk3LTIuOTM4LTMuMDEwMS0zLjQzNi01LjkzMDItMy40MzYtOC44MDAyIDAtMi44NzAxLjU1Ni02LjY3MDIgNC4wNDctOS41NTAyQzcuNDQ0LjcyIDkuODQ5IDAgMTIuMjU0IDBjMTAuMDQyMiAwIDEwLjcxNzIgOS4yNjAyIDEwLjcxNzIgOS4yNjAyeiIvPjwvc3ZnPg%3D%3D%2Cc%2C019bfb%3B&line2=docker%2Cdocker%2C2496ED%3Bgit%2Cgit%2CF05032%3Bgnubash%2Cbash%2C4EAA25%3Blinux%2Clinux%2CFCC624%3B&line3=clickhouse%2Cclickhouse%2CFFCC01%3Bpostgresql%2Cpostgres%2C4169E1%3Bgrafana%2Cgrafana%2CF46800%3Bvictoriametrics%2Cvictoriametrics%2C621773%3B)
