@@ -4,7 +4,7 @@
 
 <div align="center">
   <p>
-    🧩 <strong>Backend & microservices dev</strong><br>
+    🧩 <strong> dev</strong><br>
     🎓 <strong>MIPT (Moscow)</strong>
   </p>
 </div>
